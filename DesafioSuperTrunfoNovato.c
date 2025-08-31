@@ -58,7 +58,7 @@
       //primeira carta
 
       printf("\nCarta número 1: \n");
-      printf(" Letra %s\n", estado1);
+      printf(" Letra: %s\n", estado1);
       printf(" Codigo: %s\n", codigo1);
       printf(" Nome da cidade: %s\n", nome_cidade1);
       printf(" População: %i\n", populacao1);
@@ -70,7 +70,7 @@
       //segunda carta
 
       printf("\nCarta número 2: \n");
-      printf(" Letra %s\n", estado2);
+      printf(" Letra: %s\n", estado2);
       printf(" Codigo: %s\n", codigo2);
       printf(" Nome da cidade: %s\n", nome_cidade2);
       printf(" População: %i\n", populacao2);
